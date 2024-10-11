@@ -59,5 +59,5 @@ Here's a quick summary about me:
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/CalebAjibola06/SQL-Based-Security-Investigation.git">Access security</a>
 - SOC Automation Project
