@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/caleb-ajibola/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a Cloud Security Analyst  and a  Content Creator, currently works as in IT security Auditor . I'm passionate about sharing knowledge. I create technical content (on my Blog and YouTube), 
+I'm a Cloud Security Analyst  and a  Content Creator, currently works as in IT Auditor . I'm passionate about sharing knowledge through technical content , 
 
 Here's a quick summary about me:
 
