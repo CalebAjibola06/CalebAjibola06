@@ -9,7 +9,6 @@ Here's a quick summary about me:
 
 😊 Pronouns: He/him
 🌱 I am currently refining and advancing my expertise in the security domain.
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 💼 Job interests: cloudSecurity Analyst , IT Auditor , IT Compliance .
 📫 You can view my resume and contact me by emailing calebajibola06@gmail.com.
 
